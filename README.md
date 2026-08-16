@@ -1,1 +1,1 @@
-# ai-agriculture-assitant
+# Ai-agriculture-assitant
