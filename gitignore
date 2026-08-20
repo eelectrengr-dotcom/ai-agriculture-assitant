@@ -1,0 +1,26 @@
+# Datasets - excluded due to size, download links are in README.md
+data/
+*.csv
+
+# Trained models - can be large, regenerate with train.py
+models/
+*.pkl
+*.keras
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit
+.streamlit/
+
+# Environment
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
